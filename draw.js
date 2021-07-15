@@ -14,7 +14,7 @@ var debug = false;
 var sensitivity = 1;
 
 var particlesArr = [];
-var particleNum = 1000;
+var particleNum = 500;
 
 var flowfield;
 
