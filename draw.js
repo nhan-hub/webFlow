@@ -152,7 +152,7 @@ class Particle{
 
     display() {
         push();
-        strokeWeight(1);
+        strokeWeight(2);
         stroke(this.c);
         line(this.pos.x,this.pos.y,this.prevPos.x,this.prevPos.y);
         this.trail();
